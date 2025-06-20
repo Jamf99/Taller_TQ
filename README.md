@@ -85,6 +85,12 @@ dotnet ef database update
 
 ---
 
+## 🌐 Despliegue
+Se intentó el despliegue en Railway.app mediante un contenedor Docker para .NET 8, sin embargo, debido a restricciones de red en el entorno y falta de tiempo para ajustes, no se logró finalizar el despliegue exitoso.
+➡ Siguiente paso sugerido: desplegar en Azure App Service, compatible con .NET 8.
+
+---
+
 ## 📁 Estructura relevante
 
 ```
