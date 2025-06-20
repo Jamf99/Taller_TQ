@@ -45,7 +45,7 @@ dotnet ef database update  # Esto aplicará las migraciones y generará la BD
 dotnet run
 ```
 
-Esto expondrá la API en `https://localhost:5001` o `http://localhost:5000`.
+Esto expondrá la API en `http://localhost:5046`.
 
 ---
 
