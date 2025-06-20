@@ -41,7 +41,7 @@ cd EvaluacionDesempenoSolution/EvaluacionDesempeno.WebAPI
 
 ```bash
 dotnet restore
-dotnet ef database update  # Asegúrate que la base de datos está migrada
+dotnet ef database update  # Esto aplicará las migraciones y generará la BD
 dotnet run
 ```
 
