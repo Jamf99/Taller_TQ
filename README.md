@@ -107,14 +107,11 @@ Taller_TQ/
 
 ## 📂 Documentación Adicional
 
-En el repositorio encontrarás una carpeta **Documentación** que contiene los siguientes diagramas de apoyo al proyecto:
+En el repositorio encontrarás una carpeta **Documentación** que contiene los siguientes diagramas que apoyan la comprensión del sistema:
 
-- **Diagrama ER (Entidad-Relación)**: Representa las entidades principales de la base de datos y sus relaciones.
-- **Diagrama de Clases**: Muestra la estructura de clases del dominio del sistema y sus interacciones.
-- **Diagrama de Arquitectura**: Ilustra la arquitectura general del sistema, detallando capas y dependencias bajo el enfoque Clean Architecture.
-
-### Ubicación
-La carpeta `Documentación` se encuentra en la raíz del repositorio y contiene los archivos de los diagramas en formato imagen (PNG/JPG).
+- [Arquitectura de la solución](./Documentación/Arquitectura%20de%20la%20solución.png): Describe la estructura general del sistema bajo el enfoque de Clean Architecture, detallando las capas y sus interacciones.
+- [Diagrama Entidad Relación](./Documentación/Diagrama%20Entidad%20Relación.png): Muestra las entidades principales de la base de datos y sus relaciones.
+- [Diagrama de clases](./Documentación/Diagrama%20de%20clases.png): Representa las clases y sus relaciones dentro del dominio del sistema.
 
 ### Uso
 Estos diagramas sirven de guía para comprender:
